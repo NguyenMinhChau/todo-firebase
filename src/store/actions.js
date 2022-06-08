@@ -1,0 +1,6 @@
+export const SET_TODO = 'SET_TODO';
+export const ADD_TODO = 'ADD_TODO';
+export const TOOGLE_BUTTON_UPDATE = 'TOOGLE_BUTTON_UPDATE';
+export const SET_ID_UPDATE = 'SET_ID_UPDATE';
+export const SET_TODO_SEARCH = 'SET_TODO_SEARCH';
+export const SET_TODO_TABLE_SORT = 'SET_TODO_TABLE_SORT';
